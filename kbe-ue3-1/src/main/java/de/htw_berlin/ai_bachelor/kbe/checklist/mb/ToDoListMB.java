@@ -30,6 +30,13 @@ public class ToDoListMB implements Serializable {
 
 	//TODO
 	
+	
+	/* @brief getter method for to do list
+	 * 
+	 * @return to do list
+	 * 
+	 */
+	
 	public List<ToDo> getToDoList() {
 		
 		return this.toDoList.getToDos();
