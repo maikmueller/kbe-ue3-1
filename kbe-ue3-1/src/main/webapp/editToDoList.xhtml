@@ -15,16 +15,23 @@
     <h:form id="form">
     
 		<h:outputText value="Meine ToDo-Liste" class="tableheader"/>
-		<!-- //TODO -->
+		<br />
+		<h:outputText value="Derzeit sind #{toDoListMB.getCheckedItems()} von #{toDoListMB.sizeListMB()} ToDos erledigt." />
 		
 		<h:dataTable value="#{toDoListMB.toDoList}" var="toDoLiMB" >
 			<h:column>    				
-            	<f:facet name="header">ToDo</f:facet>    				
+            	<f:facet name="header">ToDo </f:facet>   				
             	#{toDoLiMB.name}
+            	
+            	
+            	
        		</h:column>
-		</h:dataTable>
-	
-	</h:form>  
+       		<h:column>
+       			 <h:selectBooleanCheckbox value="#{toDoLiMB.done}"></h:selectBooleanCheckbox>
+       		</h:column>
+		</h:dataTable>		
+		<h:commandButton id="save" value="Speichern" action="#{toDoListMB.save}"></h:commandButton> 
+	</h:form> 
 	
 </body>
 </html>

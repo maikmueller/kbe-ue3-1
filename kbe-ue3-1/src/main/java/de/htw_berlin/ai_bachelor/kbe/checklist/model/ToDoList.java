@@ -18,6 +18,11 @@ public class ToDoList implements Serializable {
 		this.setToDos();
 	}
 	
+	public int sizeList(){
+		System.out.println("" + getToDos().size());
+		return getToDos().size();
+	}
+	
 	
 	public List<ToDo> getToDos() {
 		return toDos;

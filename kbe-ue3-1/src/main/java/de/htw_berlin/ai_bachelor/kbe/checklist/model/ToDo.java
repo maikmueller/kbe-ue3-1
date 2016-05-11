@@ -20,6 +20,7 @@ public class ToDo implements Serializable {
 	}
 	
 	public boolean isDone() {
+		System.out.println("is Done");
 		return done;
 	}
 	public void setDone(boolean done) {

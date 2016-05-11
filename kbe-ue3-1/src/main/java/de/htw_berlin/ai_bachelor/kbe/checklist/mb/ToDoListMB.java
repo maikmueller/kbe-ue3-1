@@ -12,7 +12,7 @@ import de.htw_berlin.ai_bachelor.kbe.checklist.model.ToDoList;
 //TODO
 
 @ManagedBean(name = "toDoListMB", eager = true)
-@SessionScoped
+//@SessionScoped
 
 public class ToDoListMB implements Serializable {
 
@@ -26,16 +26,27 @@ public class ToDoListMB implements Serializable {
 		//TODO
 		this.toDoList = new ToDoList();
 	}
-	
-
-	//TODO
-	
+		
 	
 	/* @brief getter method for to do list
 	 * 
 	 * @return to do list
 	 * 
 	 */
+	public int sizeListMB(){
+		System.out.println("" + getToDoList().size());
+		return getToDoList().size();
+	}
+	
+	public int getCheckedItems(){
+		int countDone = 0;
+		for (int i = 0; i < getToDoList().size(); i++){
+			if (getToDoList().get(i).isDone()){
+				countDone++;
+			}
+		}
+		return countDone;
+	}
 	
 	public List<ToDo> getToDoList() {
 		
@@ -47,6 +58,7 @@ public class ToDoListMB implements Serializable {
 	//Should be called if the Button "Speichern" is pushed.
 	//Needs configuration in the faces-config.xml.
     public String save() {
+    	System.out.println("Gespeichert");
     	return "save";
     }
 }
