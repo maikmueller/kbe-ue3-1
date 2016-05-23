@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="kbe-ue1-2/src/main/java"/>
+	<classpathentry kind="lib" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/kbe-ue1-2/WEB-INF/lib/jsf-api-2.2.10.jar"/>
+	<classpathentry kind="lib" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/kbe-ue1-2/WEB-INF/lib/jsf-impl-2.2.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/kbe-ue1-2/WEB-INF/classes"/>
+</classpath>

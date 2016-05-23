@@ -1,0 +1,457 @@
+2016-05-04 10:59:06,147 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: de.htw-berlin.ai-bachelor.kbe:kbe-ue1-2:0.0.1-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/Uebung_1/kbe-ue1-2/pom.xml.
+2016-05-04 10:59:08,217 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 10:59:08,225 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 10:59:08,606 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: de.htw-berlin.ai-bachelor.kbe:kbe-ue1-2:0.0.1-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/Uebung_1/kbe-ue1-2/pom.xml.
+2016-05-04 10:59:08,609 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 10:59:08,612 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/Uebung_1/kbe-ue1-2/src/test/resources
+2016-05-04 10:59:09,688 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 10:59:09,695 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 10:59:09,698 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 10:59:09,699 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/Uebung_1/kbe-ue1-2/src/test/resources
+2016-05-04 11:12:29,323 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: de.htw-berlin.ai-bachelor.kbe:kbe-ue1-2:0.0.1-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/pom.xml.
+2016-05-04 11:12:30,851 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:12:30,866 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:12:30,870 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:12:30,870 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-04 11:12:32,003 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: de.htw-berlin.ai-bachelor.kbe:kbe-ue1-2:0.0.1-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/pom.xml.
+2016-05-04 11:12:34,579 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:12:34,584 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:12:34,587 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:12:34,588 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-04 11:22:07,678 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: de.htw-berlin.ai-bachelor.kbe.ue2:kbe-ue3-1:0.0.1-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/pom.xml.
+2016-05-04 11:22:08,198 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2016-05-04 11:22:08,245 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2016-05-04 11:22:08,305 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2016-05-04 11:22:08,527 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2016-05-04 11:22:08,668 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:22:08,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:22:08,673 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:22:08,674 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:22:11,471 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:22:11,472 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:22:11,473 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:22:11,474 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:36:25,982 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:36:25,984 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:36:25,985 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:36:25,986 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-04 11:36:26,005 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:36:26,006 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:36:26,007 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:36:26,008 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:38:14,172 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:38:14,174 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:38:14,175 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:38:14,178 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:40:06,986 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:40:06,996 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:40:06,998 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:40:06,998 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-04 11:40:07,006 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:40:07,007 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:40:07,010 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:40:07,010 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:50:05,190 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:50:05,198 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:50:05,199 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:50:05,200 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:50:15,698 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:50:15,699 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:50:15,700 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:50:15,701 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 11:50:21,509 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:50:21,510 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 11:50:21,511 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 11:50:21,511 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 12:07:53,502 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 12:07:53,503 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 12:07:53,505 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 12:07:53,506 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 13:20:45,348 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 13:20:45,352 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 13:20:45,354 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 13:20:45,354 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 13:29:29,431 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 13:29:29,434 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 13:29:29,436 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 13:29:29,437 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 13:39:00,396 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 13:39:00,398 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 13:39:00,400 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 13:39:00,400 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-04 22:14:13,638 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 22:14:13,642 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-04 22:14:13,644 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-04 22:14:13,648 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 10:00:14,260 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 10:00:14,271 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 10:00:14,276 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 10:00:14,277 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-05 10:00:15,051 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 10:00:15,052 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 10:00:15,054 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 10:00:15,055 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 11:05:00,251 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 11:05:00,263 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 11:05:00,264 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 11:05:00,265 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 11:23:59,911 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 11:23:59,912 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 11:23:59,914 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 11:23:59,914 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 11:56:06,933 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 11:56:06,942 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 11:56:06,943 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 11:56:06,944 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:17:02,358 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:17:02,359 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:17:02,360 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:17:02,361 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:18:20,037 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:18:20,045 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:18:20,046 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:18:20,047 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:32:27,393 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:32:27,396 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:32:27,397 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:32:27,398 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:35:03,076 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:35:03,078 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:35:03,080 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:35:03,080 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:35:20,917 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:35:20,918 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:35:20,920 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:35:20,921 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:36:29,832 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:36:29,834 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:36:29,835 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:36:29,836 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 12:37:37,372 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:37:37,373 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 12:37:37,374 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 12:37:37,375 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 13:03:27,757 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:03:27,759 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 13:03:27,760 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:03:27,761 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 13:23:16,589 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:23:16,590 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 13:23:16,591 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:23:16,592 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 13:24:29,702 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:24:29,703 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 13:24:29,704 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:24:29,705 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 13:24:48,994 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:24:48,995 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 13:24:48,997 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:24:48,997 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 13:36:32,740 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:36:32,750 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 13:36:32,751 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:36:32,752 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 13:53:42,626 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:53:42,631 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 13:53:42,633 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 13:53:42,634 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 14:01:55,747 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:01:55,748 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 14:01:55,749 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:01:55,749 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 14:40:23,143 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:40:23,146 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 14:40:23,147 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:40:23,148 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 14:49:18,452 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:49:18,452 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 14:49:18,453 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:49:18,453 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 14:51:57,016 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:51:57,017 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 14:51:57,018 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:51:57,019 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 14:55:16,089 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:55:16,090 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 14:55:16,091 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 14:55:16,092 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 15:18:45,293 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 15:18:45,295 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 15:18:45,296 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 15:18:45,297 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-05 15:20:53,123 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 15:20:53,124 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 15:20:53,125 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 15:20:53,125 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-05 15:20:53,141 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 15:20:53,142 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-05 15:20:53,144 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-05 15:20:53,145 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 09:48:50,340 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:48:50,355 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:48:50,360 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:48:50,361 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-11 09:48:51,294 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:48:51,298 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:48:51,299 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:48:51,300 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 09:50:02,116 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:50:02,124 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:50:02,125 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:50:02,126 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 09:54:12,468 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:54:12,470 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:54:12,471 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:54:12,472 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 09:56:46,131 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:56:46,134 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:56:46,136 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:56:46,137 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 09:56:57,125 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:56:57,126 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:56:57,128 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:56:57,128 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 09:59:11,700 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:59:11,709 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 09:59:11,711 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 09:59:11,712 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:04:59,201 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:04:59,204 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:04:59,208 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:04:59,209 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:05:27,100 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:05:27,108 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:05:27,109 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:05:27,110 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:06:38,056 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:06:38,057 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:06:38,058 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:06:38,058 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:07:03,670 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:07:03,671 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:07:03,672 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:07:03,672 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:21:07,512 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:21:07,515 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:21:07,516 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:21:07,517 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:21:18,950 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:21:18,959 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:21:18,960 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:21:18,961 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:36:17,546 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:36:17,555 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:36:17,557 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:36:17,557 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:37:25,822 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:37:25,830 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:37:25,831 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:37:25,832 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:39:24,454 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:39:24,459 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:39:24,461 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:39:24,462 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:44:57,918 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:44:57,919 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:44:57,921 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:44:57,921 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:45:32,834 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:45:32,835 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:45:32,836 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:45:32,836 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:46:56,055 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:46:56,064 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:46:56,067 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:46:56,067 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:48:24,969 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:48:24,977 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:48:24,979 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:48:24,980 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 10:52:58,841 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:52:58,842 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 10:52:58,843 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 10:52:58,844 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:21:22,878 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:22,886 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:21:22,888 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:22,888 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:22:11,262 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:11,270 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:22:11,271 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:11,272 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:22:29,255 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:29,263 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:22:29,264 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:29,265 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:22:41,374 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:41,383 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:22:41,384 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:41,384 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:56:33,854 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:33,855 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:56:33,856 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:33,857 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:56:35,030 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:35,031 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:56:35,034 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:35,034 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:56:36,072 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:36,072 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:56:36,074 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:36,074 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:56:56,589 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:56,590 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:56:56,592 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:56,595 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:56:59,576 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:59,577 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:56:59,578 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:56:59,578 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 11:59:48,652 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:59:48,661 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:59:48,662 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:59:48,662 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:15:17,703 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:15:17,712 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:15:17,713 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:15:17,714 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:29:04,791 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:29:04,793 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:29:04,794 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:29:04,795 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:29:05,809 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:29:05,810 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:29:05,812 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:29:05,813 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:29:05,955 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:29:05,955 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:29:05,956 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:29:05,957 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:32:08,779 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:32:08,780 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:32:08,782 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:32:08,782 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:32:09,824 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:32:09,825 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:32:09,826 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:32:09,827 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:32:29,774 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:32:29,775 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:32:29,776 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:32:29,777 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:44:22,016 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:44:22,027 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:44:22,030 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:44:22,032 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-11 12:44:22,798 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:44:22,799 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:44:22,801 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:44:22,802 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 12:44:32,598 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:44:32,603 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 12:44:32,604 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 12:44:32,605 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:08:09,893 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:08:09,895 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:08:09,897 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:08:09,898 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:08:12,513 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:08:12,514 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:08:12,516 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:08:12,517 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:18:21,731 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:18:21,732 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:18:21,734 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:18:21,734 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:19:46,644 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:19:46,645 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:19:46,647 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:19:46,651 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:19:50,724 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:19:50,725 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:19:50,726 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:19:50,727 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:21:22,111 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:21:22,119 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:21:22,121 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:21:22,121 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:28:04,580 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:28:04,581 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:28:04,583 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:28:04,584 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:28:28,592 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:28:28,600 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:28:28,604 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:28:28,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:32:02,655 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:32:02,656 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:32:02,657 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:32:02,658 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:33:08,879 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:33:08,882 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:33:08,883 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:33:08,884 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:33:40,062 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:33:40,071 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:33:40,073 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:33:40,073 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:38:01,074 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:38:01,075 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:38:01,076 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:38:01,077 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:39:14,851 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:39:14,852 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:39:14,853 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:39:14,854 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:41:10,486 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:41:10,487 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:41:10,488 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:41:10,489 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:45:41,087 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:45:41,092 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:45:41,093 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:45:41,094 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 13:46:14,336 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:46:14,337 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 13:46:14,340 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 13:46:14,341 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-11 21:26:14,515 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 21:26:14,518 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 21:26:14,519 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 21:26:14,520 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-23 08:27:21,489 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-23 08:27:21,497 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-23 08:27:21,500 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-23 08:27:21,501 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-23 08:27:22,587 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-23 08:27:22,589 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-23 08:27:22,591 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-23 08:27:22,592 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-23 08:27:23,824 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-05-23 08:27:24,003 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-05-23 08:27:24,841 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.htw_berlin.ai_bachelor.kbe:kbe_ue4_1:1.0-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/pom.xml.
+2016-05-23 08:27:24,895 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2016-05-23 08:27:24,976 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2016-05-23 08:27:25,347 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2016-05-23 08:27:25,443 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2016-05-23 08:27:25,788 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:25,789 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/main/resources
+2016-05-23 08:27:25,791 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:25,791 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/test/resources
+2016-05-23 08:27:27,579 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:27,579 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/main/resources
+2016-05-23 08:27:27,580 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:27,581 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/test/resources
+2016-05-23 08:27:39,257 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.htw_berlin.ai_bachelor.kbe.counter:kbe_ue4_2:1.0-SNAPSHOT @ /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/pom.xml.
+2016-05-23 08:27:39,281 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.1/junit-4.1.pom
+2016-05-23 08:27:39,303 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.1/junit-4.1.pom
+2016-05-23 08:27:39,420 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.1/junit-4.1.jar
+2016-05-23 08:27:39,501 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.1/junit-4.1.jar
+2016-05-23 08:27:39,562 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:39,562 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/main/resources
+2016-05-23 08:27:39,563 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:39,564 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/test/resources
+2016-05-23 08:27:40,678 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:40,678 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/main/resources
+2016-05-23 08:27:40,680 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-23 08:27:40,680 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/test/resources
