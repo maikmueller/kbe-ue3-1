@@ -1,47 +1,42 @@
 package de.htw_berlin.ai_bachelor.kbe.tree;
 
+import java.util.ArrayList;
+import java.util.Collection;
 
 public class TreeTest {
 	public static void main(String... a) {
-		Tree<Integer> t1 = new Tree<Integer>(1, null, null);
-		Tree<Integer> t2 = new Tree<Integer>(23, null, null);
-		Tree<Integer> t3 = new Tree<Integer>(42, t1, null);
-		Tree<Integer> t4 = new Tree<Integer>(65, t3, t2);
-
-		System.out.println(export2(t4));
-		System.out.println(export3(t4));
-		System.out.println(TreeSum.sum(t4));
-	}
-	
-	public static String export(Tree<?> tree) {
-		return "" + tree.getValue() + " " + tree.getLeft().getValue()
-				+ " " + tree.getRight().getValue();
-	}
-	
-	public static String export2(Tree<?> t) {
-		if (t != null) {
-			return  t.getValue() + " l:" + export2(t.getLeft())
-					+ " r:" + export2(t.getRight());
-		}
-		else {
-			return "null";
+		Tree<Integer> test = new Tree<Integer>(1,new Tree<Integer>(23, null, null), new Tree<Integer>(42, null, new Tree<Integer>(65, null, null)));
+		System.out.println(export(test));
+		
+		System.out.println("" + TreeSum.sum(test));
+		
+		ComparePredicate<Integer> compare = new ComparePredicate<>(20, 50);
+		Collection<Integer> collect = filterElements(compare, test);
+		System.out.println("FILTERR");
+		for(Integer o : collect){
+			System.out.println(" "+o);
 		}
 		
 	}
 	
-	public static String export3(Tree<?> t) {
-		String s;
-		if (t != null) {
-			s =  t.getValue() + " l:" + t.getLeft().getValue()
-					+ " r:" + t.getRight().getValue() + "\n";
-			s = s + export3(t.getLeft());
+	public static String export(Tree<?> baum){
+		String str = "";
+		if (baum != null) {
+			str = baum.getValue() + " " + export(baum.getLeft()) + export(baum.getRight());
 		}
-		else {
-			s = "null";
-		}
+		return str;
+	}
+	
+	public static <V extends Comparable<V>> Collection<V> filterElements(ComparePredicate<V> compare, Tree<V> tree){
+		Collection<V> elements = new ArrayList<>();
+		if(compare.isOK(tree))
+			elements.add(tree.getValue());
 		
-		return s;
-		
+		if(tree.getLeft()!= null)
+			elements.addAll(filterElements(compare, tree.getLeft()));
+		if(tree.getRight()!= null)
+			elements.addAll(filterElements(compare, tree.getRight()));
+		return elements;
 	}
 		
 }

@@ -463,3 +463,27 @@
 2016-05-25 12:03:10,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-05-25 12:03:10,792 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-05-25 12:03:10,793 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-25 12:40:21,912 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:40:21,926 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-25 12:40:21,936 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:40:21,936 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-25 12:40:23,060 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:40:23,061 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-25 12:40:23,064 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:40:23,065 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources
+2016-05-25 12:40:23,217 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:23,218 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/main/resources
+2016-05-25 12:40:23,219 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:23,220 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/test/resources
+2016-05-25 12:40:23,761 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:23,761 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/main/resources
+2016-05-25 12:40:23,763 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:23,763 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/test/resources
+2016-05-25 12:40:27,957 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:27,958 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/main/resources
+2016-05-25 12:40:27,959 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:27,960 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_1/src/test/resources
+2016-05-25 12:40:27,966 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:27,966 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/main/resources
+2016-05-25 12:40:27,968 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 12:40:27,968 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/test/resources

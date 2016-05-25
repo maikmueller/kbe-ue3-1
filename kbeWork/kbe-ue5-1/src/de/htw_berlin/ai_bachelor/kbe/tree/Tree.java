@@ -1,27 +1,25 @@
 package de.htw_berlin.ai_bachelor.kbe.tree;
 
-public class Tree<T> {
-	private final T value;
-	private final Tree<T> left;
-	private final Tree<T> right;
+public class Tree<E> {
+	private final E value;
+	private final Tree<E> left;
+	private final Tree<E> right;
 
-	public Tree(T v, Tree<T> l, Tree<T> r) {
+	public Tree(E v, Tree<E> l, Tree<E> r) {
 		this.value = v;
 		this.left = l;
 		this.right = r;
 	}
 
-	public T getValue() {
+	public E getValue() {
 		return this.value;
 	}
 
-	public Tree<T> getLeft() {
+	public Tree<E> getLeft() {
 		return this.left;
 	}
 
-	public Tree<T> getRight() {
+	public Tree<E> getRight() {
 		return this.right;
 	}
-	
-	
 }
