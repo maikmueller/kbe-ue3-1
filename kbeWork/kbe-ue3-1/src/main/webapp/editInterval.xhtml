@@ -1,0 +1,30 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:f="http://xmlns.jcp.org/jsf/core"
+    xmlns:h="http://xmlns.jcp.org/jsf/html">
+    
+<h:head>
+	<h:outputStylesheet library="css" name="todo.css" />
+	<title>Edit Prio Interval</title>
+</h:head>
+
+<body>
+<h3>Prioritäten Intervall editieren</h3>
+<h:form id="editInterval">
+	
+	<label>minimaler Wert:</label>
+	<h:outputText value="#{PrioIntervalMB.minValue}" id="min"></h:outputText>
+	<br />
+	<label>maximaler Wert:</label>
+	
+	<h:inputText value="#{PrioIntervalMB.maxValue}" id="max" required="true">
+
+	</h:inputText> 
+	<br /><br />
+	<h:commandButton value="submit" type="submit" action="#{PrioIntervalMB.save}" /><br />  
+</h:form>
+<h:link value="zurückk zur ToDo-Liste" outcome="editToDoList"></h:link><br />
+</body>
+</html>

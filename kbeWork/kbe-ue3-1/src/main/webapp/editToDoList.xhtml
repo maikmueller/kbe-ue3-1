@@ -1,0 +1,62 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:f="http://xmlns.jcp.org/jsf/core"
+    xmlns:h="http://xmlns.jcp.org/jsf/html">
+    
+<h:head>
+	<h:outputStylesheet library="css" name="todo.css" />
+	<title>ToDo-Liste</title>
+</h:head>
+
+<body>
+
+    <h:form id="form">
+    		<h:outputText value="Meine ToDo liste" class="tableheader"></h:outputText>
+    		<br></br>
+    		<br></br>
+    	Derzeit sind 
+    		<h:outputText value="#{ToDoListMB.toDoList.getCountDone()}"></h:outputText>
+    		von
+    		<h:outputText value="#{ToDoListMB.toDoList.getListCount()}"></h:outputText>
+    		Todos erledigt.
+    		<br></br>
+    		<br></br>
+    
+    	<h:dataTable value="#{ToDoListMB.toDoList.toDos}" var="ToDo">
+        	 <h:column>    				
+            	<f:facet name="header">ToDo</f:facet>    				
+            	#{ToDo.name}
+         	</h:column>
+         	<h:column>
+         		<f:facet name="header">erledigt</f:facet>
+         		<h:selectBooleanCheckbox value="#{ToDo.done}" id="done"/><br />
+         	</h:column>
+         	<h:column>
+				<f:facet name="header">fällig</f:facet>
+				<h:inputText value="#{ToDo.due}" id="datum" required="true">
+					<f:convertDateTime pattern="d-M-yyyy" locale="de" />
+				</h:inputText>         	
+         	</h:column>
+         	<h:column>
+				<f:facet name="header">prio</f:facet>
+				<h:inputText value="#{ToDo.prio}" id="prio" required="true">
+					
+				</h:inputText>         	
+         	</h:column>
+         	<h:column>
+         		<h:message for="datum"></h:message>
+         		<h:message for="prio"></h:message>
+         	</h:column>
+         </h:dataTable>
+         <h:button value="cancel" type="reset"></h:button>
+         <h:commandButton value="submit" type="submit" action="#{UserData.save}" /><br />
+   
+         <br />	
+		<h:link value="Neues ToDo anlegen" outcome="editToDo"></h:link><br />         				
+         <br />	 
+		<h:link value="Prioritäten Intervall editieren" outcome="editInterval"></h:link><br />
+	</h:form>  
+</body>
+</html>

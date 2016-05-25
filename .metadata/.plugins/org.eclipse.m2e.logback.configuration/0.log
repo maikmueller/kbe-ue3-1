@@ -455,3 +455,11 @@
 2016-05-23 08:27:40,678 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/main/resources
 2016-05-23 08:27:40,680 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-23 08:27:40,680 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe_ue4_2/src/test/resources
+2016-05-25 12:03:09,791 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:03:09,805 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-25 12:03:09,809 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:03:09,810 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue1-2/src/test/resources
+2016-05-25 12:03:10,789 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:03:10,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-25 12:03:10,792 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-25 12:03:10,793 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/kbe-ue3-1/src/test/resources

@@ -1,0 +1,53 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:f="http://xmlns.jcp.org/jsf/core"
+    xmlns:h="http://xmlns.jcp.org/jsf/html">
+    
+<h:head>
+	<h:outputStylesheet library="css" name="todo.css" />
+	<title>ToDo-Liste</title>
+</h:head>
+
+<body>
+
+    <h:form id="form">
+    		<h:outputText value="Meine ToDo liste" class="tableheader"></h:outputText>
+    		<br></br>
+    		<br></br>
+    	Derzeit sind 
+    		<h:outputText value="#{UserData.toDoList.getCountDone()}"></h:outputText>
+    		von
+    		<h:outputText value="#{UserData.toDoList.getListCount()}"></h:outputText>
+    		Todos erledigt.
+    		<br></br>
+    		<br></br>
+    
+    	<h:dataTable value="#{UserData.toDoList.toDos}" var="ToDo">
+        	 <h:column>    				
+            	<f:facet name="header">ToDo</f:facet>    				
+            	#{ToDo.name}
+         	</h:column>
+         	<h:column>
+         		<f:facet name="header">erledigt</f:facet>
+         		<h:selectBooleanCheckbox value="#{ToDo.done}" id="done"/><br />
+         	</h:column>
+         	<h:column>
+				<f:facet name="header">fällig</f:facet>
+				<h:inputText value="#{ToDo.due}" id="datum" required="true">
+					<f:convertDateTime pattern="d-M-yyyy" locale="de" />
+				</h:inputText>         	
+         	</h:column>
+         	<h:column>
+         		<h:message for="datum"></h:message>
+         	</h:column>
+         </h:dataTable>
+         		<h:commandButton value="submit" type="submit" action="#{UserData.save}" /><br />
+         		<h:button value="cancel" type="reset"></h:button>
+         		
+         		<h:commandLink value="Zeit mit h:commandLink" action="#{zeitData.goToTimePage()}"></h:commandLink><br />
+		<h:link value="Zeit mit h:link" outcome="showTime"></h:link><br />
+	</h:form>  
+</body>
+</html>

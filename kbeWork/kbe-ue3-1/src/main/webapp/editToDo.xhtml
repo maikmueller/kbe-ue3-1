@@ -1,0 +1,38 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:f="http://xmlns.jcp.org/jsf/core"
+    xmlns:h="http://xmlns.jcp.org/jsf/html">
+    
+<h:head>
+	<h:outputStylesheet library="css" name="todo.css" />
+	<title>Edit ToDo</title>
+</h:head>
+
+<body>
+	<h3>Edit ToDo</h3>
+	<h:form id="editToDo">
+	
+	        <label>ToDo</label><br />
+	        <h:inputText value="#{ToDoMB.toDo.name}" id="name" required="true">
+	        
+	        </h:inputText> 		
+            <br /><br />
+            
+			<label>fällig</label><br />
+			<h:inputText value="#{ToDoMB.toDo.due}" id="datum" required="true">
+				<f:convertDateTime pattern="d-M-yyyy" locale="de" />
+			</h:inputText>         	
+			<br /><br />
+			<label>Prio</label><br />
+			<h:inputText value="#{ToDoMB.toDo.prio}" id="prio" required="true">
+					
+			</h:inputText> 
+			<br /><br />
+	        <h:button value="cancel" type="reset"></h:button>
+         	<h:commandButton value="submit" type="submit" action="#{ToDoMB.save}" /><br />
+   
+	</h:form>
+</body>
+</html>

@@ -22,3 +22,6 @@ DEBUG 2016-05-23 08:24:20,172 (XMPPConnectionService.java:398) maikm@saros-con.i
 DEBUG 2016-05-23 08:24:20,173 (DataTransferManager.java:467) used transport order for the current XMPP connection: [XMPP-Socks5-Transport, XMPP-IBB-Transport]
 DEBUG 2016-05-23 08:24:20,175 (SkypeManager.java:289) Refreshing Skype username cache...
 WARN  2016-05-23 08:24:29,621 (StunServiceImpl.java:420) received no response from STUN server stunserver.org/69.172.201.153:3478 at local address /141.45.213.63:0
+DEBUG 2016-05-23 08:29:06,681 (XMPPConnectionService.java:398) maikm@saros-con.imp.fu-berlin.de/Saros new connection state == DISCONNECTING
+DEBUG 2016-05-23 08:29:06,835 (XMPPConnectionService.java:398)  new connection state == NOT_CONNECTED
+DEBUG 2016-05-23 08:29:06,836 (UPnPServiceImpl.java:295) deleting existing port mappings

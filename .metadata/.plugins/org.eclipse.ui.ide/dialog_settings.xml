@@ -3,16 +3,18 @@
 	<section name="ExternalProjectImportWizard">
 		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
-		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/Maik/Downloads/kbe_ue4_2"/>
+			<item value="/Users/Maik/Downloads/kbe_ue4_1"/>
 			<item value=""/>
 			<item value="/Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/Uebung_1"/>
 			<item value="/Users/Maik/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/Komponentenbasierte Entwicklung/Uebung_1/kbe-ue1-2"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
 			<item value="/Users/Maik/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Angewandte Informatik/Bachelor/Semester/Semester 5/Komponentenbasierte Entwicklung/Übung/Uebung 3/kbe-ue3-1.zip"/>
 			<item value="/Users/Maik/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Angewandte Informatik/Bachelor/Semester/Semester 5/Komponentenbasierte Entwicklung/Übung/Uebung 1/kbe-ue1-2.zip"/>
-			<item value=""/>
 		</list>
 	</section>
 </section>
