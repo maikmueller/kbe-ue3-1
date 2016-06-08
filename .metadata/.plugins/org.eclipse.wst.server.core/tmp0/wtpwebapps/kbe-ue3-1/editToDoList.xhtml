@@ -16,7 +16,7 @@
     
 		<h:outputText value="Meine ToDo-Liste" class="tableheader"/>
 		<br />
-		<h:outputText value="Derzeit sind von #{toDoListMB.toDoList.sizeList} ToDos erledigt." />
+		<h:outputText value="Derzeit sind #{toDoListMB.getCheckedItems()} von #{toDoListMB.sizeListMB()} ToDos erledigt." />
 		
 		<h:dataTable value="#{toDoListMB.toDoList}" var="toDoLiMB" >
 			<h:column>    				

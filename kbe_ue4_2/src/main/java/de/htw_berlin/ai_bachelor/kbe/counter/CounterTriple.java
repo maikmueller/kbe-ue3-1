@@ -13,7 +13,7 @@ public class CounterTriple implements Counter {
 	
 	
 	public void increment(){
-		counter++;
+		counter *= 3;
 	}
 	
 	public int getCounter(){
